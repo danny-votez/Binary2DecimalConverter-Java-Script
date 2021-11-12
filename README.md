@@ -1,7 +1,8 @@
 ### Binary2Decimal Converter Script Using Java
-#### Project Goals and Expectations
+#### Project Outcomes/Expectations
 - Get user input, as String, one of the secondary/derived/reference data types
 - Validate user input, to ensure only Binary elements, that is: 0's and 1's are entered
+- Conversion of Binary entries into Decimal
 
 #### Notes/Preamble
 - This project script builds from "app ideas" by <b> Florin Pop </b> accessible from: https://github.com/florinpop17/app-ideas
@@ -16,4 +17,4 @@
 - To validate a String value, there is using "regex" to get string in a specific format.
 - In the script, the <strong>hasNext()</strong> takes a regex in validating if the user input string contains Binary values.
 - It is only after the successful validation, that there is subsequent conversion of Binary to Decimal
-- If the validation fails, i.e., entry elements are neither 0's or 1's, the <strong>"else"</strong> statement executes
+- If the validation fails, i.e., entry elements are neither 0's or 1's, the <strong>"else"</strong> statement executes.
