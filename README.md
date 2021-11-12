@@ -8,7 +8,7 @@
 - This project script builds from "app ideas" by <b> Florin Pop </b> accessible from: https://github.com/florinpop17/app-ideas
 - This Binary2Decimal script is based on first exercise <a href="https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md">Bin2Dec</a> , only that this focuses is on Java.
 
-#### Script Exaplanation
+#### Script Explanation
 - The Java Script illustrates Binary to Decimal Conversion
 - To complete this, we rely on <strong>parseInt()</strong> method
 - Also, there is reliance on <strong>Scanner class</strong> for gettin user input
