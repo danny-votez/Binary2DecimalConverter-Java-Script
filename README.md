@@ -4,8 +4,8 @@
 - Validate user input, to ensure only Binary elements, that is: 0's and 1's are entered
 
 #### Notes/Preamble
-- This project script builds from "app ideas" by Florin Pop https://github.com/florinpop17/app-ideas
-- This Binary2Decimal conversion script is based on the first exercise [https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md] , only that the focus is on Java.
+- This project script builds from "app ideas" by <b> Florin Pop </b> https://github.com/florinpop17/app-ideas
+- This Binary2Decimal script is based on first exercise <a href="https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md">Bin2Dec</a> , with focus is on Java.
 
 #### Script Exaplanation
 - The Java Script illustrates Binary to Decimal Conversion
