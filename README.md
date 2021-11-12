@@ -13,5 +13,7 @@
 - Also, there is reliance on Scanner class for gettin user input
 - This script ensures that there is input Validation using Scanner class
 - To complete the validation, Scanner's hasNext() method is used
+- To validate a String value, there is using "regex" to get string in a specific format.
+- In the script, the hasNext() takes a regex in validating if the user input string contains Binary values.
 - It is only after the successful validation, that there is subsequent conversion of Binary to Decimal
 - If the validation fails, i.e., entry elements are neither 0's or 1's, the "else" statement executes
