@@ -1,15 +1,15 @@
-### Binary2Decimal Converter Script Using Java
-#### Project Outcomes/Expectations
+## Binary2Decimal Converter Script Using Java
+### Project Outcomes/Expectations
 - Get user input, as String, one of the secondary/derived/reference data types
 - Validate user input, to ensure only Binary elements, that is: 0's and 1's are entered
 - Conversion of Binary entries into Decimal
 - The Binary to Decimal conversion is based on Console Interface
 
-#### Notes/Preamble
+### Notes/Preamble
 - This project script builds from "app ideas" by <b> Florin Pop </b> accessible from: https://github.com/florinpop17/app-ideas
 - This Binary2Decimal script is based on first exercise <a href="https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md">Bin2Dec</a> , only that this focuses is on Java.
 
-#### Script Explanation
+### Script Explanation
 - The Java Script illustrates Binary to Decimal Conversion
 - To complete this, we rely on <strong>parseInt()</strong> method
 - Also, there is reliance on <strong>Scanner class</strong> for gettin user input
@@ -20,7 +20,7 @@
 - It is only after the successful validation, that there is subsequent conversion of Binary to Decimal
 - If the validation fails, i.e., entry elements are neither 0's or 1's, the <strong>"else"</strong> statement executes.
 
-#### Below is the Java Console Interface Script
+### Below is the Java Console Interface Script
 <pre>
 <code>
 // The following script illustrates Binary to Decimal Conversion
@@ -57,4 +57,8 @@ class Bin2Dec{
 }
 </code>
 </pre>
+
+#### Possible Improvements/Changes
+- This illustration only bases on Console User Interface. The same can be improved for Graphical User Interface (GUI).
+- Can be improved, to handle maximum binary elements entered, i.e., 1's and 0's entered for valid output
 
