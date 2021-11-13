@@ -62,3 +62,6 @@ class Bin2Dec{
 - This illustration only bases on Console User Interface. The same can be improved for Graphical User Interface (GUI).
 - Can be improved, to handle maximum binary elements entered, i.e., 1's and 0's entered for valid output
 
+#### Read More Online [coming soon]
+<!-- - <a href="https://scelland.com/binary-to-decimal-converter-using-Java.html">Binary to Decimal Converter Using Java</a> -->
+
